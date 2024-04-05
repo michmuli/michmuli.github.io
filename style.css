@@ -1,0 +1,66 @@
+nav{
+    background: black;
+    color: white;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 870px;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        position: fixed;
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+        padding-left:30px;
+        padding-right: 30px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+        
+}
+
+a:hover{
+    color: black;
+    background: antiquewhite;
+        
+}
+
+body{
+    margin: 0px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-style: normal; 
+}
+
+h1{
+    color: chocolate;
+}
+
+div#profile{
+    padding-top: 100px;
+    padding-bottom: 20px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+
+div#bio{
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    width: 500px;
+    display: inline-block;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+
